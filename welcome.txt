@@ -1,2 +1,9 @@
-Hello
-World
+Hello World!
+
+git clone https://github.com/synthesiax1/python.git . # . means current directory
+git diff
+git commit -m "blahblah"
+git log
+git push 
+git status
+git add file1.txt
